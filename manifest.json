@@ -1,0 +1,55 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "musk3teers",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "musk3teers",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "assets/lojas-icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "assets/img/icon/windows11/SmallTile.scale-100.png",
+      "type": "image/png",
+      "sizes": "71x71"
+    },
+    {
+      "src": "assets/img/icon/windows11/SmallTile.scale-125.png",
+      "type": "image/png",
+      "sizes": "89x89"
+    },
+    {
+      "src": "assets/img/icon/android/android-launchericon-512-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "assets/img/icon/android/android-launchericon-192-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/img/icon/ios/16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "assets/img/icon/ios/20.png",
+      "type": "image/png",
+      "sizes": "20x20"
+    }
+  ],
+  "description": "e-commerce de vestuário",
+  "lang": "pt",
+  "categories": [
+    "lifestyle",
+    "shopping",
+    "social"
+  ]
+}
